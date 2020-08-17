@@ -1,3 +1,5 @@
+//Manipulation of Stim injectors with level4 pointers and shared Health address that is divided to Friendly and Enemy.
+//shows how to manage and eliminate Unreal engine 4 case of "ENEMY GOD MODES".
 <?xml version="1.0" encoding="utf-8"?>
 <CheatTable CheatEngineTableVersion="20">
   <CheatEntries>
